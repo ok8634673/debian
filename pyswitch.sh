@@ -70,3 +70,4 @@ if [ ${UID} == 0 ];then
 else
     echo "您没有权限~~~"
 fi
+
